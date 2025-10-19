@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: gray;
+    padding: 0px;
+}
+
+
+
+ .layout{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.layout ul{
+    display: flex;
+    gap: 20px;
+    margin-top: 19px;
+    text-decoration: none;
+    list-style: none;
+    margin-right: 25px;
+}
+
+
+
+.layout .ukuran {
+    font-size: 30px;
+    margin-top: 12px;
+    margin-left: 20px;
+}
